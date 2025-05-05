@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Tristin 👋
 
-<!--
-**CoolGamer2000/CoolGamer2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior blockchain developer passionate about decentralized communities, smart contracts, and crypto trading bots. This GitHub showcases my journey learning software engineering and blockchain development.
 
-Here are some ideas to get you started:
+## 🔥 Current Focus
+- Solidity smart contracts
+- Trading bot development
+- Building decentralized app (dApp) interfaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learning Journey
+Follow my week-by-week progress in the [reflections](https://github.com/CoolGamer2000/Tristin-blockchain-portfolio/tree/main/reflections) folder of my portfolio repository.
+
+## 🌐 Connect
+[LinkedIn](#) | [Portfolio Website](#) (coming soon!)
